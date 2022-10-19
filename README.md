@@ -1,4 +1,7 @@
 # Gerador-de-piadas
+ 
+ ![Piadas](https://user-images.githubusercontent.com/105875989/196572075-c7fe8991-4959-4080-bb31-3093bf421e8c.gif)
+
  Site que gera piadas para melhorar seu dia
 
 <hr>
