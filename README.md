@@ -7,7 +7,7 @@
 <br>
 <h2><strong> 📝 Descrição:</strong></h2>    
 
-Caso esteja meio desanimado, basta acesser meu site que é piada garantida, ele gera piadas para você se animar 😉
+Caso esteja meio desanimado, basta acesser meu site que é piada garantida, ele gera piadas para você se animar 😉 <br>
 <strong>Link para acessar o site: https://gerador-de-piadas.vercel.app</strong>
 <br>
 <br>
